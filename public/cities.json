@@ -1,0 +1,106 @@
+{"cities":[{     
+        "id": "Roma",
+        "name": "Roma",
+        "continent": "Europe",
+        "photo": "https://i.imgur.com/cOPl7VB.jpg",
+        "population": 38000000,
+        "group": 0
+
+    },
+    {
+        "id": "Paris",
+        "name": "París",
+        "continent": "Europe",
+        "photo": "https://i.imgur.com/LYEz5yC.jpg",
+        "population": 19000000,
+        "group": 0
+    },
+    {
+        "id": "Buenos Aires",
+        "name": "Buenos Aires",
+        "continent": "America",
+        "photo": "https://i.imgur.com/AnSNUTt.jpg",
+        "population": 10000000,
+        "group": 0
+
+    },
+    {
+        "id": "Barcelona",
+        "name": "Barcelona",
+        "continent": "Europe",
+        "photo": "https://i.imgur.com/H7KZlEK.jpg",
+        "population": 18500000,
+        "group": 0
+
+    },
+    {
+        "id": "Estambul",
+        "name": "Estambul",
+        "continent": "Europe",
+        "photo": "https://i.imgur.com/Fu0AVia.jpg",
+        "population": 13400000,
+        "group": 1
+
+    },
+    {
+        "id": "Londres",
+        "name": "Londres",
+        "continent": "Europe",
+        "photo": "https://i.imgur.com/1pWr1uz.jpg",
+        "population": 19600000,
+        "group": 1
+
+    },
+    {
+        "id": "Nueva York",
+        "name": "Nueva York",
+        "continent": "America",
+        "photo": "https://i.imgur.com/zLsQSBh.jpg",
+        "population": 14000000,
+        "group": 1
+
+    },
+    {
+        "id": "Madrid",
+        "name": "Madrid",
+        "continent": "Europe",
+        "photo": "https://i.imgur.com/8OGSWKe.jpg",
+        "population": 4900000,
+        "group": 1
+
+    },
+    {
+        "id": "Amsterdam",
+        "name": "Amsterdam",
+        "continent": "Europe",
+        "photo": "https://i.imgur.com/Lld4NZY.jpg",
+        "population": 17000000,
+        "group": 2
+
+    },
+    {
+        "id": "Oslo",
+        "name": "Oslo",
+        "continent": "Europe",
+        "photo": "https://i.imgur.com/XpJdmcH.jpg",
+        "population": 4600000,
+        "group": 2
+
+    },
+    {
+        "id": "Tokio",
+        "name": "Tokio",
+        "continent": "Asia",
+        "photo": "https://i.imgur.com/5Eejbj5.jpg",
+        "population": 10440000,
+        "group": 2
+
+    },
+    {
+        "id": "Moscu",
+        "name": "Moscu",
+        "continent": "Asia",
+        "photo": "https://i.imgur.com/NWFgPOE.jpg",
+        "population": 5125700,
+        "group": 2
+    }]}

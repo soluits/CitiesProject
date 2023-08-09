@@ -1,0 +1,54 @@
+
+.headerMain{
+    background-color: rgba(0, 0, 0, .15);
+    max-width: 1440px;
+}
+.logo{
+    max-width: 320px !important;
+    width: 100%;
+    margin: 0 auto;
+}
+.menuButton{
+    content: '\2261';
+    display: inline-block;
+    background-color: #49b9ea;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.05;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    color: inherit;
+    border: none;
+}
+.nav-item {
+    color: #333333;
+    background-color: #49b9ea;
+    font-weight: bold;
+    line-height: 4;
+    font-size: 1.2rem;
+    padding: 2rem 2rem !important;
+    font-weight: 500;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.nav-item:hover {
+    background-color: #333333;
+    color:#ffffff;
+}
+.userProfile {
+    width:75%;
+    padding: 1rem 1rem !important;
+
+}
+.borderTransparent {
+    border-color: transparent !important;
+}
+.dropdown-menu {
+    border-color: transparent !important;
+
+}
+.dropdown-toggle::after {
+    display: none;
+    
+}

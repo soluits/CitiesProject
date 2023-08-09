@@ -1,0 +1,73 @@
+.carousel {
+    flex-grow: 1;
+    background-color: #000;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.sliderContainer {
+    flex-grow: 1;
+    height: 82vh;
+    margin: auto;
+    position: relative;
+    width: 100%;
+}
+
+.container-carrousel {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    position: relative;
+}
+
+.location-title {
+    font-family: 'Panter';
+font-size: 1.5rem;
+    background-color: #49b9ea;
+    color: #333333;
+    height: 30px;
+    margin: 0;
+    padding-top: 0.2rem;
+    position: absolute;
+    text-align: center;
+    width: 50%;
+}
+
+.imgCarrousel {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    position: relative;
+}
+
+.img-carousel {
+    height: 41vh;
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+}
+
+.next,
+.prev {
+    border-radius: 0 3px 3px 0;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: -22px;
+    padding: 16px;
+    position: absolute;
+    top: 51.5%;
+    transition: .6s ease;
+    -webkit-user-select: none;
+    user-select: none;
+    width: auto;
+}
+
+.next {
+    border-radius: 3px 0 0 3px;
+    right: 0;
+}
+
+.next:hover, .prev:hover {
+    background-color: #333333;
+}

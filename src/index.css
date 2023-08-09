@@ -1,0 +1,45 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+/*normalizado*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bg-light {
+  width: 100% !important;
+  max-width: 1400px !important;
+  margin: 0 auto !important;
+}
+.my2{
+  margin-top: 0.5rem!important;
+    margin-bottom: 0.5rem!important;
+}
+.navbar-collapse {
+  flex-grow: 0;
+}
+.nav-item {
+  margin-right: 10px!important;
+  border-radius: 0 !important;
+  padding: 0px 18px !important;
+
+}
+.padding15{
+  padding: 15px !important;
+}
+.navBackground{
+  
+  background-color: #030a18;
+
+}
+.navLink{
+  background-color: #fff !important;
+  padding: 6px 12px !important;
+  
+}
+.colorAqua{
+  background-color: rgba(63,208,212,0.85) !important;
+}
